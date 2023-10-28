@@ -1,0 +1,14 @@
+D:\C#\Projects\SteamID\obj\Debug\net7.0\SteamID.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\SteamID\obj\Debug\net7.0\SteamID.AssemblyInfoInputs.cache
+D:\C#\Projects\SteamID\obj\Debug\net7.0\SteamID.AssemblyInfo.cs
+D:\C#\Projects\SteamID\obj\Debug\net7.0\SteamID.csproj.CoreCompileInputs.cache
+D:\C#\Projects\SteamID\bin\Debug\net7.0\SteamID.exe
+D:\C#\Projects\SteamID\bin\Debug\net7.0\SteamID.deps.json
+D:\C#\Projects\SteamID\bin\Debug\net7.0\SteamID.runtimeconfig.json
+D:\C#\Projects\SteamID\bin\Debug\net7.0\SteamID.dll
+D:\C#\Projects\SteamID\bin\Debug\net7.0\SteamID.pdb
+D:\C#\Projects\SteamID\obj\Debug\net7.0\SteamID.dll
+D:\C#\Projects\SteamID\obj\Debug\net7.0\refint\SteamID.dll
+D:\C#\Projects\SteamID\obj\Debug\net7.0\SteamID.pdb
+D:\C#\Projects\SteamID\obj\Debug\net7.0\SteamID.genruntimeconfig.cache
+D:\C#\Projects\SteamID\obj\Debug\net7.0\ref\SteamID.dll
