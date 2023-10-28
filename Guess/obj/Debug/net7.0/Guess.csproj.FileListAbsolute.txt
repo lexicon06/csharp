@@ -1,0 +1,14 @@
+D:\C#\Projects\guess\bin\Debug\net7.0\Guess.exe
+D:\C#\Projects\guess\bin\Debug\net7.0\Guess.deps.json
+D:\C#\Projects\guess\bin\Debug\net7.0\Guess.runtimeconfig.json
+D:\C#\Projects\guess\bin\Debug\net7.0\Guess.dll
+D:\C#\Projects\guess\bin\Debug\net7.0\Guess.pdb
+D:\C#\Projects\guess\obj\Debug\net7.0\Guess.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\guess\obj\Debug\net7.0\Guess.AssemblyInfoInputs.cache
+D:\C#\Projects\guess\obj\Debug\net7.0\Guess.AssemblyInfo.cs
+D:\C#\Projects\guess\obj\Debug\net7.0\Guess.csproj.CoreCompileInputs.cache
+D:\C#\Projects\guess\obj\Debug\net7.0\Guess.dll
+D:\C#\Projects\guess\obj\Debug\net7.0\refint\Guess.dll
+D:\C#\Projects\guess\obj\Debug\net7.0\Guess.pdb
+D:\C#\Projects\guess\obj\Debug\net7.0\Guess.genruntimeconfig.cache
+D:\C#\Projects\guess\obj\Debug\net7.0\ref\Guess.dll
