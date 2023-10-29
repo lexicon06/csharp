@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fb4aYMX1zY0iBNtKEIDazO+s8KMi9eQNU9MRnk5fp3w/WWLdM3vM8UZ6RGK9p/w94diUrDyVRM3Ugvr8NoWx/g==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Projects\\hASHLINKdECRYPT\\HashlinkDecrypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pablo Ignacio Santil\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

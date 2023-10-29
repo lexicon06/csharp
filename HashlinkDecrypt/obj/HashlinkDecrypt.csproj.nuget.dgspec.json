@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Projects\\Steamid\\SteamID.csproj": {}
+    "D:\\C#\\Projects\\hASHLINKdECRYPT\\HashlinkDecrypt.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Projects\\Steamid\\SteamID.csproj": {
+    "D:\\C#\\Projects\\hASHLINKdECRYPT\\HashlinkDecrypt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Projects\\Steamid\\SteamID.csproj",
-        "projectName": "SteamID",
-        "projectPath": "D:\\C#\\Projects\\Steamid\\SteamID.csproj",
+        "projectUniqueName": "D:\\C#\\Projects\\hASHLINKdECRYPT\\HashlinkDecrypt.csproj",
+        "projectName": "HashlinkDecrypt",
+        "projectPath": "D:\\C#\\Projects\\hASHLINKdECRYPT\\HashlinkDecrypt.csproj",
         "packagesPath": "C:\\Users\\Pablo Ignacio Santil\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Projects\\Steamid\\obj\\",
+        "outputPath": "D:\\C#\\Projects\\hASHLINKdECRYPT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "SharpZipLib": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
