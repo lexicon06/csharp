@@ -1,0 +1,14 @@
+D:\C#\Projects\arestools\bin\Debug\net7.0\AresTools.exe
+D:\C#\Projects\arestools\bin\Debug\net7.0\AresTools.deps.json
+D:\C#\Projects\arestools\bin\Debug\net7.0\AresTools.runtimeconfig.json
+D:\C#\Projects\arestools\bin\Debug\net7.0\AresTools.dll
+D:\C#\Projects\arestools\bin\Debug\net7.0\AresTools.pdb
+D:\C#\Projects\arestools\obj\Debug\net7.0\AresTools.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\arestools\obj\Debug\net7.0\AresTools.AssemblyInfoInputs.cache
+D:\C#\Projects\arestools\obj\Debug\net7.0\AresTools.AssemblyInfo.cs
+D:\C#\Projects\arestools\obj\Debug\net7.0\AresTools.csproj.CoreCompileInputs.cache
+D:\C#\Projects\arestools\obj\Debug\net7.0\AresTools.dll
+D:\C#\Projects\arestools\obj\Debug\net7.0\refint\AresTools.dll
+D:\C#\Projects\arestools\obj\Debug\net7.0\AresTools.pdb
+D:\C#\Projects\arestools\obj\Debug\net7.0\AresTools.genruntimeconfig.cache
+D:\C#\Projects\arestools\obj\Debug\net7.0\ref\AresTools.dll
