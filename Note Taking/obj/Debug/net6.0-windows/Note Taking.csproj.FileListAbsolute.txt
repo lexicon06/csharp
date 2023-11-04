@@ -1,0 +1,16 @@
+D:\C#\Projects\Note Taking\bin\Debug\net6.0-windows\Note Taking.exe
+D:\C#\Projects\Note Taking\bin\Debug\net6.0-windows\Note Taking.deps.json
+D:\C#\Projects\Note Taking\bin\Debug\net6.0-windows\Note Taking.runtimeconfig.json
+D:\C#\Projects\Note Taking\bin\Debug\net6.0-windows\Note Taking.dll
+D:\C#\Projects\Note Taking\bin\Debug\net6.0-windows\Note Taking.pdb
+D:\C#\Projects\Note Taking\obj\Debug\net6.0-windows\Note_Taking.Form1.resources
+D:\C#\Projects\Note Taking\obj\Debug\net6.0-windows\Note Taking.csproj.GenerateResource.cache
+D:\C#\Projects\Note Taking\obj\Debug\net6.0-windows\Note Taking.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\Note Taking\obj\Debug\net6.0-windows\Note Taking.AssemblyInfoInputs.cache
+D:\C#\Projects\Note Taking\obj\Debug\net6.0-windows\Note Taking.AssemblyInfo.cs
+D:\C#\Projects\Note Taking\obj\Debug\net6.0-windows\Note Taking.csproj.CoreCompileInputs.cache
+D:\C#\Projects\Note Taking\obj\Debug\net6.0-windows\Note Taking.dll
+D:\C#\Projects\Note Taking\obj\Debug\net6.0-windows\refint\Note Taking.dll
+D:\C#\Projects\Note Taking\obj\Debug\net6.0-windows\Note Taking.pdb
+D:\C#\Projects\Note Taking\obj\Debug\net6.0-windows\Note Taking.genruntimeconfig.cache
+D:\C#\Projects\Note Taking\obj\Debug\net6.0-windows\ref\Note Taking.dll

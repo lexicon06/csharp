@@ -1,0 +1,27 @@
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Bot client ares ejemplo Source\bin\Debug\Bot client ares ejemplo Source.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Bot client ares ejemplo Source\bin\Debug\Bot client ares ejemplo Source.pdb
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Bot client ares ejemplo Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Bot client ares ejemplo Source\obj\x86\Debug\Bot_client_ares_ejemplo_Source.Form1.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Bot client ares ejemplo Source\obj\x86\Debug\Bot_client_ares_ejemplo_Source.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Bot client ares ejemplo Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Bot client ares ejemplo Source\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Bot client ares ejemplo Source\obj\x86\Debug\Bot client ares ejemplo Source.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Bot client ares ejemplo Source\obj\x86\Debug\Bot client ares ejemplo Source.pdb
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\obj\x86\Debug\Bot client ares ejemplo Source.exe
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\obj\x86\Debug\Bot client ares ejemplo Source.pdb
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\bin\Debug\Bot client ares ejemplo Source.exe
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\bin\Debug\Bot client ares ejemplo Source.pdb
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\obj\x86\Debug\Bot_client_ares_ejemplo_Source.Form1.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\obj\x86\Debug\Bot_client_ares_ejemplo_Source.Properties.Resources.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\bin\Debug\Bot client ares ejemplo Source.exe
+D:\C#\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\bin\Debug\Bot client ares ejemplo Source.pdb
+D:\C#\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\obj\x86\Debug\Bot_client_ares_ejemplo_Source.Form1.resources
+D:\C#\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\obj\x86\Debug\Bot_client_ares_ejemplo_Source.Properties.Resources.resources
+D:\C#\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\obj\x86\Debug\Bot client ares ejemplo Source.csproj.GenerateResource.cache
+D:\C#\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\obj\x86\Debug\Bot client ares ejemplo Source.exe
+D:\C#\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\obj\x86\Debug\Bot client ares ejemplo Source.pdb
+D:\C#\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\obj\x86\Debug\Bot client ares ejemplo Source.csprojResolveAssemblyReference.cache
+D:\C#\Projects\Bot client ares ejemplo Source\Bot client ares ejemplo Source\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
