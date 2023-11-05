@@ -1,0 +1,14 @@
+D:\C#\Projects\SteamCalculatorArgentina\bin\Debug\net7.0\SteamCalculatorArgentina.exe
+D:\C#\Projects\SteamCalculatorArgentina\bin\Debug\net7.0\SteamCalculatorArgentina.deps.json
+D:\C#\Projects\SteamCalculatorArgentina\bin\Debug\net7.0\SteamCalculatorArgentina.runtimeconfig.json
+D:\C#\Projects\SteamCalculatorArgentina\bin\Debug\net7.0\SteamCalculatorArgentina.dll
+D:\C#\Projects\SteamCalculatorArgentina\bin\Debug\net7.0\SteamCalculatorArgentina.pdb
+D:\C#\Projects\SteamCalculatorArgentina\obj\Debug\net7.0\SteamCalculatorArgentina.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\SteamCalculatorArgentina\obj\Debug\net7.0\SteamCalculatorArgentina.AssemblyInfoInputs.cache
+D:\C#\Projects\SteamCalculatorArgentina\obj\Debug\net7.0\SteamCalculatorArgentina.AssemblyInfo.cs
+D:\C#\Projects\SteamCalculatorArgentina\obj\Debug\net7.0\SteamCalculatorArgentina.csproj.CoreCompileInputs.cache
+D:\C#\Projects\SteamCalculatorArgentina\obj\Debug\net7.0\SteamCalculatorArgentina.dll
+D:\C#\Projects\SteamCalculatorArgentina\obj\Debug\net7.0\refint\SteamCalculatorArgentina.dll
+D:\C#\Projects\SteamCalculatorArgentina\obj\Debug\net7.0\SteamCalculatorArgentina.pdb
+D:\C#\Projects\SteamCalculatorArgentina\obj\Debug\net7.0\SteamCalculatorArgentina.genruntimeconfig.cache
+D:\C#\Projects\SteamCalculatorArgentina\obj\Debug\net7.0\ref\SteamCalculatorArgentina.dll

@@ -1,0 +1,14 @@
+D:\C#\Projects\AresChatClient\chatbot\bin\Debug\net7.0\chatbot.exe
+D:\C#\Projects\AresChatClient\chatbot\bin\Debug\net7.0\chatbot.deps.json
+D:\C#\Projects\AresChatClient\chatbot\bin\Debug\net7.0\chatbot.runtimeconfig.json
+D:\C#\Projects\AresChatClient\chatbot\bin\Debug\net7.0\chatbot.dll
+D:\C#\Projects\AresChatClient\chatbot\bin\Debug\net7.0\chatbot.pdb
+D:\C#\Projects\AresChatClient\chatbot\obj\Debug\net7.0\chatbot.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\AresChatClient\chatbot\obj\Debug\net7.0\chatbot.AssemblyInfoInputs.cache
+D:\C#\Projects\AresChatClient\chatbot\obj\Debug\net7.0\chatbot.AssemblyInfo.cs
+D:\C#\Projects\AresChatClient\chatbot\obj\Debug\net7.0\chatbot.csproj.CoreCompileInputs.cache
+D:\C#\Projects\AresChatClient\chatbot\obj\Debug\net7.0\chatbot.dll
+D:\C#\Projects\AresChatClient\chatbot\obj\Debug\net7.0\refint\chatbot.dll
+D:\C#\Projects\AresChatClient\chatbot\obj\Debug\net7.0\chatbot.pdb
+D:\C#\Projects\AresChatClient\chatbot\obj\Debug\net7.0\chatbot.genruntimeconfig.cache
+D:\C#\Projects\AresChatClient\chatbot\obj\Debug\net7.0\ref\chatbot.dll
