@@ -91,10 +91,10 @@ class HashlinkReader
 
     public function toPort()
     {
-    $tmp = array_slice($this->Data, $this->Position, 2);
-    $this->Position += 2;
-    $tmp = implode(array_map("chr", $tmp)); // Convert byte array back to string
-    return unpack("n", $tmp)[1];
+        $tmp = array_slice($this->Data, $this->Position, 2);
+        $this->Position += 2;
+        $tmp = implode(array_map("chr", $tmp)); // Convert byte array back to string
+        return unpack("n", $tmp)[1];
     }
 
 
