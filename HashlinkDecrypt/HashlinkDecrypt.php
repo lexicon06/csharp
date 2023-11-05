@@ -22,7 +22,7 @@ class Program
 {
     public static function Main()
     {
-        $room = self::DecodeHashlink("arlnk://F5...........");
+        $room = self::DecodeHashlink("arlnk://F5fPZROCs4iuoc9Jm55ZbaOFmNlWiMGfo6mdC6eQOPjF/B/AfHuXAbhqNmb1T7HX2fuO");
         echo "Name: {$room['Name']}, IP: {$room['IP']}, Port: {$room['Port']}\n";
     }
 
@@ -44,7 +44,7 @@ class Program
         $room = array();
 
         $room['IP'] = $reader->toIP();
-        $room['Port'] = $reader->toInteger();
+        $room['Port'] = $reader->toPort();
         $reader->SkipBytes(4);
         $room['Name'] = $reader->toString();
 
@@ -89,12 +89,15 @@ class HashlinkReader
         return implode('', array_map('chr', $tmp));
     }
 
-    public function toInteger()
+    public function toPort()
     {
-        $tmp = array_slice($this->Data, $this->Position, 2);
-        $this->Position += 2;
-        return $tmp[0] | ($tmp[1] << 8);
+    $tmp = array_slice($this->Data, $this->Position, 2);
+    $this->Position += 2;
+    $tmp = implode(array_map("chr", $tmp)); // Convert byte array back to string
+    return unpack("n", $tmp)[1];
     }
+
+
 
     public function toIP()
     {

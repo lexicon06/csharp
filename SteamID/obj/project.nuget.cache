@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ISWosl1p0z+SD7+g9CI2nLUCz7EqtesenEHr/M5+L3SJfKy7Equ+x83NJ37QOJ3ij2iKeKbTzrOORaQ8FtDQkw==",
+  "dgSpecHash": "6I5lj6AB2GajWBNqu0+safPcjOxe8jX8HtmemNWWHX1/HguNETJV/4mmuaOXya5YO1ldPOTCuXLWRIOpt66MYw==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Projects\\Steamid\\SteamID.csproj",
+  "projectFilePath": "D:\\C#\\Projects\\SteamID\\SteamID.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Projects\\Steamid\\SteamID.csproj": {}
+    "D:\\C#\\Projects\\SteamID\\SteamID.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Projects\\Steamid\\SteamID.csproj": {
+    "D:\\C#\\Projects\\SteamID\\SteamID.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Projects\\Steamid\\SteamID.csproj",
+        "projectUniqueName": "D:\\C#\\Projects\\SteamID\\SteamID.csproj",
         "projectName": "SteamID",
-        "projectPath": "D:\\C#\\Projects\\Steamid\\SteamID.csproj",
+        "projectPath": "D:\\C#\\Projects\\SteamID\\SteamID.csproj",
         "packagesPath": "C:\\Users\\Pablo Ignacio Santil\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Projects\\Steamid\\obj\\",
+        "outputPath": "D:\\C#\\Projects\\SteamID\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
